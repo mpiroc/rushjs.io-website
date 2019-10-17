@@ -4,7 +4,7 @@ title: rush publish
 navigation_source: docs_nav
 ---
 
-```
+```unknown
 usage: rush publish [-h] [-a] [-b BRANCH] [-p] [--add-commit-details]
                     [--regenerate-changelogs] [-r REGISTRY] [-n TOKEN]
                     [-t TAG] [--set-access-level {public,restricted}] [--pack]
